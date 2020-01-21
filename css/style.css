@@ -58,6 +58,7 @@ li {
     display: inline;
     line-height: 35px;
 }
+/* parte centrale sx */
 .row {
     height: 500px;
     background-color: white;
@@ -65,18 +66,21 @@ li {
 aside {
     height: 100%;
     width: 25%;
-    background-color: white;
+    background-color: green;
     float: left;
 }
 .left .content{
     width: 100%;
     background-color: white
     padding: 0 10px;
+    display: inline-block;
 }
 p {
     text-align: justify;
+    padding: 8px 10px;
     color: darkgreen;
 }
+/* parte centrale main */
 main {
     height: 100%;
     width: 50%;
@@ -86,6 +90,10 @@ main {
 main .content {
     height: 100%;
     background-color: purple;
+}
+.centrale{
+    text-align: justify;
+    color: black;
 }
 footer {
     height: 100px;
