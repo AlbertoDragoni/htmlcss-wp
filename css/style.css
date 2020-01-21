@@ -97,7 +97,7 @@ aside.right {
     background-color: white;
 }
 .content-widget {
-    padding-top: 10px;
+    padding: 8px;
     border-bottom: 10px solid lightgreen;
     text-align: justify;
     color: black;
