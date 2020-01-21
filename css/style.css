@@ -74,6 +74,7 @@ li:hover {
 aside {
     width: 25%;
     background-color: white;
+    border-radius: 5px;
     float: left;
 }
 .left .content {
@@ -92,6 +93,7 @@ main {
     padding: 0 10px;
 }
 main .content {
+    border-radius: 5px;
     background-color: white;
 }
 .centrale{
@@ -105,6 +107,7 @@ aside.right {
 .content-widget {
     padding: 8px;
     margin-bottom: 10px;
+    border-radius: 5px;
     text-align: justify;
     background-color: white;
     color: black;
