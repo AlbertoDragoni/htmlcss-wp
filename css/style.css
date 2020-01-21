@@ -59,6 +59,9 @@ li {
     display: inline;
     line-height: 35px;
 }
+li:hover {
+    cursor: pointer;
+}
 /* parte centrale sx */
 .row {
     height: 500px;
