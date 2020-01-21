@@ -9,7 +9,7 @@
     clear: both;
 }
 body {
-    background-color: lightgreen;
+    background-image: url(https://trickvilla.com/wp-content/uploads/Wood-Background-Images.jpg);
 }
 .container {
     width: 80vw;
@@ -65,7 +65,6 @@ li:hover {
 /* parte centrale sx */
 .row {
     height: 500px;
-    background-color: lightgreen;
 }
 aside {
     width: 25%;
