@@ -9,12 +9,13 @@
     clear: both;
 }
 body {
-    background-color: red;
+    background-color: lightgreen;
 }
 .container {
     width: 80vw;
     margin: 0 auto;
 }
+/* inizio header */
 header {
     height: 300px;
     margin-bottom: 10px;
@@ -64,16 +65,13 @@ li {
     background-color: white;
 }
 aside {
-    height: 100%;
     width: 25%;
     background-color: green;
     float: left;
 }
-.left .content{
-    width: 100%;
+.left .content {
     background-color: white
     padding: 0 10px;
-    display: inline-block;
 }
 p {
     text-align: justify;
