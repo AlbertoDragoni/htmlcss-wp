@@ -62,11 +62,11 @@ li {
 /* parte centrale sx */
 .row {
     height: 500px;
-    background-color: white;
+    background-color: lightgreen;
 }
 aside {
     width: 25%;
-    background-color: green;
+    background-color: white;
     float: left;
 }
 .left .content {
@@ -80,16 +80,25 @@ p {
 }
 /* parte centrale main */
 main {
-    height: 100%;
+
     width: 50%;
     float: left;
     padding: 0 10px;
 }
 main .content {
-    height: 100%;
-    background-color: purple;
+    background-color: white;
 }
 .centrale{
+    text-align: justify;
+    color: black;
+}
+/* parte centrale dx */
+aside.right {
+    background-color: white;
+}
+.content-widget {
+    padding-top: 10px;
+    border-bottom: 10px solid lightgreen;
     text-align: justify;
     color: black;
 }
